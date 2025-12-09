@@ -1,10 +1,10 @@
 # POS System Comparison Dashboard - Project Summary
 
-## 📋 Project Overview
+## Project Overview
 
 A comprehensive Power BI dashboard project for evaluating three retail POS systems (Ginesis, Logic, Wondersoft) specifically designed for eyewear retail stores with custom lens selection workflows and Easyecom integration requirements.
 
-## ✅ What's Been Created
+## What's Been Created
 
 ### 1. Datasets (5 Excel Files)
 Located in `/0_Datasets/`:
@@ -95,7 +95,7 @@ Located in `/scripts/`:
    - Automated script to push to GitHub
    - Interactive prompts
 
-## 🎯 Key Features
+## Key Features
 
 ### Eyewear Workflow Analysis
 - **7 Steps**: Frame Selection → Lens Type → Coating → Index → Corridor → Price → Order
@@ -118,7 +118,7 @@ Located in `/scripts/`:
 - **10 Metrics**: Overall Score, TCO, Efficiency, ROI, etc.
 - **Interactive**: Filters, drill-through, bookmarks
 
-## 📊 Key Insights
+## Key Insights
 
 ### System Comparison Summary
 
@@ -148,7 +148,7 @@ Located in `/scripts/`:
 - Want lowest monthly fees ($99)
 - Can invest in setup time
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Data Extraction
 - **Python 3.9+**: Core language
@@ -169,7 +169,7 @@ Located in `/scripts/`:
 - **DAX**: Calculations
 - **Power Query**: Data transformation
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 POS-System-Comparison-Dashboard/
@@ -195,7 +195,7 @@ POS-System-Comparison-Dashboard/
 └── requirements.txt              # Python dependencies
 ```
 
-## 🚀 Next Steps
+## Next Steps
 
 ### 1. Push to GitHub
 Run the batch script:
@@ -233,7 +233,7 @@ git push -u origin main
 3. Share GitHub repository
 4. Present findings to stakeholders
 
-## 📈 Project Statistics
+## Project Statistics
 
 - **Total Files**: 16
 - **Datasets**: 5 Excel files
@@ -246,19 +246,19 @@ git push -u origin main
 - **Integration Requirements**: 12
 - **Cost Items**: 18
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
-- ✅ Data extraction and web scraping
-- ✅ Data processing with Python/Pandas
-- ✅ Excel dataset creation
-- ✅ Power BI dashboard design
-- ✅ DAX formula creation
-- ✅ Technical documentation
-- ✅ Git version control
-- ✅ Project organization
+- Data extraction and web scraping
+- Data processing with Python/Pandas
+- Excel dataset creation
+- Power BI dashboard design
+- DAX formula creation
+- Technical documentation
+- Git version control
+- Project organization
 
-## 📞 Support
+## Support
 
 For questions or issues:
 1. Check documentation in `/3_Documentation/`
@@ -266,14 +266,14 @@ For questions or issues:
 3. Consult `Technical_Stack_Documentation.md` for technical details
 4. See `POS_HowToUse.md` for Power BI guidance
 
-## 📝 Notes
+## Notes
 
 - All data is sample/illustrative - replace with actual vendor information
 - Pricing and features should be validated with vendors
 - Integration complexity estimates are approximate
 - Customize weights and priorities based on your needs
 
-## ✨ Credits
+## Credits
 
 **Author**: Mugilan Elangovan
 **Role**: Technical PM | Product Manager
@@ -282,4 +282,4 @@ For questions or issues:
 
 ---
 
-**Ready to push to GitHub!** 🚀
+Repository ready for deployment.

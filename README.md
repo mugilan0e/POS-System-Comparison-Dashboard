@@ -1,8 +1,8 @@
-# 🛒 POS System Comparison Dashboard for Eyewear Retail
+# POS System Comparison Dashboard for Eyewear Retail
 
 A comprehensive Power BI dashboard to evaluate and compare three retail POS systems (Ginesis, Logic, Wondersoft) for eyewear stores with custom lens selection workflows and Easyecom integration.
 
-## 🎯 Purpose
+## Purpose
 
 This dashboard helps decision-makers evaluate POS systems based on:
 - **Eyewear Workflow Efficiency**: Frame → Lens → Coating → Index → Corridor → Price → Order
@@ -11,7 +11,7 @@ This dashboard helps decision-makers evaluate POS systems based on:
 - **Feature Coverage**: Support for eyewear-specific requirements
 - **Implementation Complexity**: Setup time, training, development effort
 
-## 📊 Systems Being Compared
+## Systems Being Compared
 
 ### 1. Ginesis
 - **Pricing**: $199/month subscription
@@ -31,7 +31,7 @@ This dashboard helps decision-makers evaluate POS systems based on:
 - **Integration**: Complex custom development required
 - **Best For**: Businesses with dev resources, need customization
 
-## 📁 Dataset Files
+## Dataset Files
 
 Located in `/0_Datasets/`:
 - **POS_Systems_Comparison.xlsx**: Core system comparison data
@@ -40,7 +40,7 @@ Located in `/0_Datasets/`:
 - **Integration_Requirements.xlsx**: Easyecom integration details
 - **Cost_Analysis.xlsx**: 3-year TCO breakdown
 
-## 📈 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1: Executive Summary
 - System scorecards with overall ratings
@@ -71,7 +71,7 @@ Located in `/0_Datasets/`:
 - Pros & cons summary
 - Final recommendation
 
-## 🔑 Key Metrics
+## Key Metrics
 
 - **Overall Score**: Weighted composite (Ease of Use 25%, Customization 20%, Integration 35%, Support 20%)
 - **TCO (3 Years)**: Total cost including setup, hardware, subscription, integration, training
@@ -80,7 +80,7 @@ Located in `/0_Datasets/`:
 - **Feature Coverage**: Percentage of required features supported
 - **ROI Score**: Efficiency gains vs total cost
 
-## 🛠️ Eyewear Workflow Steps
+## Eyewear Workflow Steps
 
 The dashboard analyzes this 7-step retail flow:
 1. **Frame Selection**: Customer chooses frame from catalog
@@ -91,7 +91,7 @@ The dashboard analyzes this 7-step retail flow:
 6. **Price Calculation**: Dynamic pricing based on all selections
 7. **Order Finalization**: Complete order and payment processing
 
-## 🔗 Easyecom Integration Requirements
+## Easyecom Integration Requirements
 
 Critical integration points evaluated:
 - **Inventory Sync**: Real-time stock updates
@@ -99,7 +99,7 @@ Critical integration points evaluated:
 - **Customer Data Sync**: Customer information synchronization
 - **Real-time Price Updates**: Dynamic pricing integration
 
-## 💰 Cost Comparison Summary (Sample Data)
+## Cost Comparison Summary (Sample Data)
 
 | System | Year 1 | Year 2 | Year 3 | 3-Year Total |
 |--------|--------|--------|--------|--------------|
@@ -109,14 +109,14 @@ Critical integration points evaluated:
 
 *Note: Sample data - replace with actual vendor quotes*
 
-## 📘 Documentation
+## Documentation
 
 - **POS_DataDictionary.md**: Complete data schema and field definitions
 - **POS_MetricsDefinitions.md**: DAX formulas and metric calculations
 - **POS_DashboardDesign.md**: Visual design specifications
 - **POS_HowToUse.md**: Step-by-step implementation guide
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Open Power BI Desktop
 2. Load all Excel files from `/0_Datasets/`
@@ -125,14 +125,14 @@ Critical integration points evaluated:
 5. Build dashboard pages following `POS_DashboardDesign.md`
 6. Customize with your actual data
 
-## ⚠️ Important Notes
+## Important Notes
 
 - **Sample Data**: All data is illustrative - replace with actual vendor information
 - **Validation Required**: Confirm pricing, features, and integration details with vendors
 - **Customization**: Adjust weights and priorities based on your specific needs
 - **Integration Testing**: Verify Easyecom integration capabilities before final decision
 
-## 🎯 Decision Criteria
+## Decision Criteria
 
 **High Priority:**
 - Easyecom integration capability (35% weight)
@@ -151,7 +151,7 @@ Critical integration points evaluated:
 4. Examine Integration & Cost for implementation reality
 5. Use Recommendation Dashboard for final decision
 
-## 📞 Next Steps
+## Next Steps
 
 1. **Validate Data**: Get actual quotes and feature lists from vendors
 2. **Request Demos**: Focus on eyewear workflow and Easyecom integration
@@ -159,7 +159,7 @@ Critical integration points evaluated:
 4. **Calculate ROI**: Project efficiency gains for your store volume
 5. **Make Decision**: Use dashboard insights to select optimal system
 
-## 👤 Author
+## Author
 
 **Mugilan Elangovan**
 Technical PM | Product Manager | Data-driven Delivery Leader
