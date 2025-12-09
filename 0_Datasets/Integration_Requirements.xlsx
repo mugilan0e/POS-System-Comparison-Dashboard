@@ -1,0 +1,13 @@
+Requirement_ID	SystemName	IntegrationType	RequirementName	Complexity	DevelopmentDays	Cost_USD	Status	Priority
+INT-001	Ginesis	Easyecom	Inventory Sync	Medium	15	$3000	Feasible	High
+INT-002	Ginesis	Easyecom	Order Push	Medium	10	$2000	Feasible	High
+INT-003	Ginesis	Easyecom	Customer Data Sync	Low	5	$1000	Feasible	Medium
+INT-004	Ginesis	Easyecom	Real-time Price Updates	High	20	$4000	Feasible	Medium
+INT-005	Logic	Easyecom	Inventory Sync	Low	5	$500	Pre-built	High
+INT-006	Logic	Easyecom	Order Push	Low	3	$300	Pre-built	High
+INT-007	Logic	Easyecom	Customer Data Sync	Low	3	$300	Pre-built	Medium
+INT-008	Logic	Easyecom	Real-time Price Updates	Medium	8	$1500	Feasible	Medium
+INT-009	Wondersoft	Easyecom	Inventory Sync	High	30	$6000	Complex	High
+INT-010	Wondersoft	Easyecom	Order Push	High	25	$5000	Complex	High
+INT-011	Wondersoft	Easyecom	Customer Data Sync	Medium	15	$3000	Complex	Medium
+INT-012	Wondersoft	Easyecom	Real-time Price Updates	High	35	$7000	Complex	Medium

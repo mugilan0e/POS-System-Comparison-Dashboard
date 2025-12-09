@@ -1,0 +1,19 @@
+Cost_ID	SystemName	CostCategory	Year1	Year2	Year3	TotalCost_3Years	Notes
+C-001	Ginesis	Setup Cost	$500	$0	$0	$500	One-time setup
+C-002	Ginesis	Hardware	$1200	$0	$400	$1600	Initial + replacement
+C-003	Ginesis	Monthly Subscription	$2388	$2388	$2388	$7164	$199/month
+C-004	Ginesis	Integration Development	$10000	$0	$0	$10000	Easyecom integration
+C-005	Ginesis	Training	$2000	$500	$500	$3000	Staff training
+C-006	Ginesis	Support	$0	$0	$0	$0	Included in subscription
+C-007	Logic	Setup Cost	$800	$0	$0	$800	One-time setup
+C-008	Logic	Hardware	$1500	$0	$500	$2000	Initial + replacement
+C-009	Logic	Monthly Subscription	$2988	$2988	$2988	$8964	$249/month
+C-010	Logic	Integration Development	$2600	$0	$0	$2600	Pre-built connector
+C-011	Logic	Training	$1500	$300	$300	$2100	Staff training
+C-012	Logic	Support	$0	$0	$0	$0	Included in subscription
+C-013	Wondersoft	Setup Cost	$1200	$0	$0	$1200	One-time setup
+C-014	Wondersoft	Hardware	$1000	$0	$300	$1300	Initial + replacement
+C-015	Wondersoft	Monthly Subscription	$1188	$1188	$1188	$3564	$99/month support
+C-016	Wondersoft	Integration Development	$21000	$0	$0	$21000	Complex custom integration
+C-017	Wondersoft	Training	$2500	$600	$600	$3700	Staff training
+C-018	Wondersoft	Support	$0	$0	$0	$0	Included in subscription

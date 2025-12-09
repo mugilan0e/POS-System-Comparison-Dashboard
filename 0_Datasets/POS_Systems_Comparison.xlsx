@@ -1,0 +1,4 @@
+System_ID	SystemName	Vendor	PricingModel	MonthlyFee	SetupCost	HardwareCost	OverallScore	EaseOfUse	CustomizationScore	IntegrationScore	SupportRating
+POS-001	Ginesis	Ginesis Technologies	Subscription	$199	$500	$1200	7.5	8	7	8	7
+POS-002	Logic	Logic Retail Solutions	Subscription	$249	$800	$1500	8.2	9	8	7	9
+POS-003	Wondersoft	Wondersoft Systems	One-time + Support	$99	$1200	$1000	7.8	7	9	6	8

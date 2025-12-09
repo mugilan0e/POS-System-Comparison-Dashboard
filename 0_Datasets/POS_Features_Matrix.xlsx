@@ -1,0 +1,31 @@
+Feature_ID	SystemName	FeatureCategory	FeatureName	Supported	Rating	Notes
+F-001	Ginesis	Eyewear Workflow	Frame Selection	Yes	8	Basic frame catalog with search
+F-002	Ginesis	Eyewear Workflow	Lens Type Selection	Yes	7	Standard lens types supported
+F-003	Ginesis	Eyewear Workflow	Coating Options	Yes	8	Multiple coating types
+F-004	Ginesis	Eyewear Workflow	Lens Index Selection	Yes	7	1.5, 1.6, 1.67, 1.74 supported
+F-005	Ginesis	Eyewear Workflow	Corridor Selection	Yes	6	Limited corridor options
+F-006	Ginesis	Eyewear Workflow	Dynamic Pricing	Yes	8	Price updates based on selections
+F-007	Ginesis	Integration	Easyecom Integration	Partial	5	API available, custom development needed
+F-008	Ginesis	Integration	Inventory Sync	Yes	7	Real-time sync with delays
+F-009	Ginesis	Integration	Order Management	Yes	8	Good order tracking
+F-010	Ginesis	Customization	Custom Fields	Yes	7	Limited custom fields
+F-011	Logic	Eyewear Workflow	Frame Selection	Yes	9	Advanced catalog with images
+F-012	Logic	Eyewear Workflow	Lens Type Selection	Yes	9	Comprehensive lens library
+F-013	Logic	Eyewear Workflow	Coating Options	Yes	9	Extensive coating options
+F-014	Logic	Eyewear Workflow	Lens Index Selection	Yes	8	All standard indices
+F-015	Logic	Eyewear Workflow	Corridor Selection	Yes	8	Multiple corridor lengths
+F-016	Logic	Eyewear Workflow	Dynamic Pricing	Yes	9	Real-time price calculation
+F-017	Logic	Integration	Easyecom Integration	Yes	7	Pre-built connector available
+F-018	Logic	Integration	Inventory Sync	Yes	9	Real-time bidirectional sync
+F-019	Logic	Integration	Order Management	Yes	9	Advanced order workflow
+F-020	Logic	Customization	Custom Fields	Yes	8	Flexible custom fields
+F-021	Wondersoft	Eyewear Workflow	Frame Selection	Yes	8	Good catalog management
+F-022	Wondersoft	Eyewear Workflow	Lens Type Selection	Yes	8	Standard lens options
+F-023	Wondersoft	Eyewear Workflow	Coating Options	Yes	9	Highly customizable coatings
+F-024	Wondersoft	Eyewear Workflow	Lens Index Selection	Yes	8	All indices supported
+F-025	Wondersoft	Eyewear Workflow	Corridor Selection	Yes	9	Extensive corridor options
+F-026	Wondersoft	Eyewear Workflow	Dynamic Pricing	Yes	8	Formula-based pricing
+F-027	Wondersoft	Integration	Easyecom Integration	No	3	No direct integration
+F-028	Wondersoft	Integration	Inventory Sync	Partial	6	Manual sync required
+F-029	Wondersoft	Integration	Order Management	Yes	7	Basic order management
+F-030	Wondersoft	Customization	Custom Fields	Yes	9	Highly customizable

@@ -1,0 +1,22 @@
+Step_ID	StepNumber	StepName	Description	SystemName	TimeToComplete_Seconds	ErrorRate_Percent	StaffTrainingRequired_Hours
+WF-001	1	Frame Selection	Customer selects frame from catalog	Ginesis	120	5	2
+WF-002	2	Lens Type Selection	Choose lens type (Single Vision, Bifocal, Progressive)	Ginesis	45	3	3
+WF-003	3	Coating Selection	Select coatings (Anti-reflective, Blue light, Photochromic)	Ginesis	60	4	2
+WF-004	4	Lens Index Selection	Choose lens index based on prescription	Ginesis	30	8	4
+WF-005	5	Corridor Selection	Select corridor length for progressive lenses	Ginesis	40	10	5
+WF-006	6	Price Calculation	System calculates final price	Ginesis	5	2	1
+WF-007	7	Order Finalization	Complete order and payment	Ginesis	90	3	2
+WF-008	1	Frame Selection	Customer selects frame from catalog	Logic	90	3	1.5
+WF-009	2	Lens Type Selection	Choose lens type (Single Vision, Bifocal, Progressive)	Logic	35	2	2
+WF-010	3	Coating Selection	Select coatings (Anti-reflective, Blue light, Photochromic)	Logic	45	2	1.5
+WF-011	4	Lens Index Selection	Choose lens index based on prescription	Logic	25	4	3
+WF-012	5	Corridor Selection	Select corridor length for progressive lenses	Logic	30	5	3
+WF-013	6	Price Calculation	System calculates final price	Logic	3	1	0.5
+WF-014	7	Order Finalization	Complete order and payment	Logic	75	2	1.5
+WF-015	1	Frame Selection	Customer selects frame from catalog	Wondersoft	110	4	2
+WF-016	2	Lens Type Selection	Choose lens type (Single Vision, Bifocal, Progressive)	Wondersoft	40	3	2.5
+WF-017	3	Coating Selection	Select coatings (Anti-reflective, Blue light, Photochromic)	Wondersoft	50	3	2
+WF-018	4	Lens Index Selection	Choose lens index based on prescription	Wondersoft	28	6	3.5
+WF-019	5	Corridor Selection	Select corridor length for progressive lenses	Wondersoft	35	6	4
+WF-020	6	Price Calculation	System calculates final price	Wondersoft	8	3	2
+WF-021	7	Order Finalization	Complete order and payment	Wondersoft	85	4	2
