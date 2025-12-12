@@ -1,0 +1,22 @@
+{
+  "name": "POS Systems Comparison Theme",
+  "dataColors": [
+    "#0078D4",
+    "#107C10", 
+    "#FF8C00",
+    "#6B69D6",
+    "#D83B01",
+    "#038387",
+    "#8764B8",
+    "#881798"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#323130",
+  "tableAccent": "#0078D4",
+  "good": "#107C10",
+  "neutral": "#FF8C00", 
+  "bad": "#D83B01",
+  "maximum": "#107C10",
+  "center": "#FF8C00",
+  "minimum": "#D83B01"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Eluno Eyewear Theme",
+  "dataColors": [
+    "#2C3E50",
+    "#E74C3C", 
+    "#3498DB",
+    "#F39C12",
+    "#27AE60",
+    "#9B59B6",
+    "#1ABC9C",
+    "#34495E"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C3E50",
+  "tableAccent": "#E74C3C",
+  "good": "#27AE60",
+  "neutral": "#F39C12", 
+  "bad": "#E74C3C",
+  "maximum": "#27AE60",
+  "center": "#F39C12",
+  "minimum": "#E74C3C"
+}
